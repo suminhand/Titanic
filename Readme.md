@@ -1,8 +1,8 @@
-# 타이타닉 데이터셋 분석 & 생존여부 예측하기
+I# 타이타닉 데이터셋 분석 & 생존여부 예측하기
 
 ## 데이터셋 개요
 데이터 다운로드
-https://www.kaggle.com/c/titanic (Titanic: Machine Learning from Disaster)  
+https://www.kaggle.com/c/titanic  (Titanic: Machine Learning from Disaster)  
 
 데이터 column
 - survival: 생존여부( 생존:1, 생존x: 0)
