@@ -19,6 +19,12 @@ https://www.kaggle.com/c/titanic  (Titanic: Machine Learning from Disaster)
 ## 분석 주제
 
 - 성별에 따른 생존율
+- 티켓 등급에 따른 생존율
 - 나이에 따른 생존율
-- 
+- 부모-자식 관계에 따른 생존율
+- 가족 구성원수에 따른 생존율
+- cabin에 따른 생존율(분석 못함)
+
+
+## 예측 모델
 
